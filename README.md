@@ -1,5 +1,6 @@
-# This small project was made mainly for speeding up my cad modeling process
+# SAM2CAD
 
-## Works hella good for cookie cutters and custom organization/storage solutions
+## This small project was made mainly for speeding up my cad modeling process
+### Works hella good for cookie cutters and custom organization/storage solutions
 
-## More features in the future!!!
+#### More features in the future!!!
